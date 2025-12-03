@@ -10,7 +10,7 @@ Asıl yapma sebebim Python öğrendiğim esnada projelerimi GitHub'da tutarken k
 - Python 3 yüklü olsun.
 - Repoyu indir veya klonla:
   ```bash
-  git clone https://github.com/EngincanErgunGG/BasicTriangleChecker/
+  git clone https://github.com/EngincanErgunGG/BasicTriangleChecker.git
   ```
 - Çalıştır:
   ```bash
